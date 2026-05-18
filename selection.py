@@ -17,5 +17,4 @@ n= int(input("Enter no. of e:"))
 for i in range(n):
     x=int(input("Enter the element in arr:"))
     arr.append(x)
-
 selection_sort(arr)
